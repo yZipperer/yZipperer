@@ -6,8 +6,6 @@
 - 💻 I’m great with NodeJS APIs
 - 🥅 2021 Goal: Create an eCommerce Site with MERN stack
 
-<br />
-
 ### Languages and Tools:
 
 * HTML
@@ -23,10 +21,7 @@
 * GDScript
 * Batch
 
-
-<br />
-
- ##GitHub Stats
+##GitHub Stats
 
   <img align="left" alt="yZipperer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yZipperer&show_icons=true&hide_border=true" />
 
