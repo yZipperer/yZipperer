@@ -1,8 +1,6 @@
-### Hi, I'm Yukon... 👋
+### Hello 👋
 
-## I'm currently a student
-
-- 🌟 I am working on my own social network site!
+- 🌟 I love making websites, simple or complex
 - 💻 I’m great with NodeJS APIs
 - 🥅 2021 Goal: Create an eCommerce Site with MERN stack
 
