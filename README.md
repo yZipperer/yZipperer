@@ -19,6 +19,9 @@
 * Batch
 * C++
 * Java
+* Shell
+* CoffeeScript
+* F#
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yZipperer&show_icons=true&hide_border=true&theme=tokyonight)
 
