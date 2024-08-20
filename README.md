@@ -2,7 +2,7 @@
 
 - 🌟 I love making websites, simple or complex
 - 💻 I’m great with NodeJS APIs
-- 📦 Currently running a 7 figure National Product Distribution Business with my software
+- 📦 Currently running a 7 figure business with my software
 
 ### Languages and Tools:
 
